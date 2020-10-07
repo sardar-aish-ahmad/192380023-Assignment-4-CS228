@@ -1,0 +1,15 @@
+.add-heading{
+    height: 80px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    font-size: 50px;;
+}
+
+.add-form{
+
+    height: 500px;
+    margin: 0%;
+    padding: 0%;
+    background-color: dodgerblue;
+}
